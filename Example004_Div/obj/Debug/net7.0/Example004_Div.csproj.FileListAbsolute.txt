@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/bin/Debug/net7.0/Example004_Div
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/bin/Debug/net7.0/Example004_Div.deps.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/bin/Debug/net7.0/Example004_Div.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/bin/Debug/net7.0/Example004_Div.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/bin/Debug/net7.0/Example004_Div.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/Example004_Div.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/Example004_Div.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/Example004_Div.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/refint/Example004_Div.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/Example004_Div.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/Example004_Div.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example004_Div/obj/Debug/net7.0/ref/Example004_Div.dll
