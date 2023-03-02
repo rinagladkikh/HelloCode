@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/bin/Debug/net7.0/Example005_Condition_IfElse
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/bin/Debug/net7.0/Example005_Condition_IfElse.deps.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/bin/Debug/net7.0/Example005_Condition_IfElse.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/bin/Debug/net7.0/Example005_Condition_IfElse.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/bin/Debug/net7.0/Example005_Condition_IfElse.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/Example005_Condition_IfElse.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/Example005_Condition_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/Example005_Condition_IfElse.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/Example005_Condition_IfElse.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/Example005_Condition_IfElse.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/Example005_Condition_IfElse.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/refint/Example005_Condition_IfElse.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/Example005_Condition_IfElse.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/Example005_Condition_IfElse.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example005_Condition_IfElse/obj/Debug/net7.0/ref/Example005_Condition_IfElse.dll
