@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/bin/Debug/net7.0/Seminar01_Max and min
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/bin/Debug/net7.0/Seminar01_Max and min.deps.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/bin/Debug/net7.0/Seminar01_Max and min.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/bin/Debug/net7.0/Seminar01_Max and min.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/bin/Debug/net7.0/Seminar01_Max and min.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/Seminar01_Max and min.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/Seminar01_Max and min.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/Seminar01_Max and min.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/Seminar01_Max and min.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/Seminar01_Max and min.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/Seminar01_Max and min.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/refint/Seminar01_Max and min.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/Seminar01_Max and min.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/Seminar01_Max and min.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Max and min/obj/Debug/net7.0/ref/Seminar01_Max and min.dll
