@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/Seminar01_Square Number.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/Seminar01_Square Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/Seminar01_Square Number.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/Seminar01_Square Number.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/Seminar01_Square Number.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/bin/Debug/net7.0/Seminar01_Square Number
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/bin/Debug/net7.0/Seminar01_Square Number.deps.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/bin/Debug/net7.0/Seminar01_Square Number.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/bin/Debug/net7.0/Seminar01_Square Number.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/bin/Debug/net7.0/Seminar01_Square Number.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/Seminar01_Square Number.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/refint/Seminar01_Square Number.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/Seminar01_Square Number.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/Seminar01_Square Number.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Seminar01_Square Number/obj/Debug/net7.0/ref/Seminar01_Square Number.dll

@@ -1,0 +1,15 @@
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/bin/Debug/net7.0/Example007_Magic_While
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/bin/Debug/net7.0/Example007_Magic_While.deps.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/bin/Debug/net7.0/Example007_Magic_While.runtimeconfig.json
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/bin/Debug/net7.0/Example007_Magic_While.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/bin/Debug/net7.0/Example007_Magic_While.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/Example007_Magic_While.csproj.AssemblyReference.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/Example007_Magic_While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/Example007_Magic_While.AssemblyInfoInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/Example007_Magic_While.AssemblyInfo.cs
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/Example007_Magic_While.csproj.CoreCompileInputs.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/Example007_Magic_While.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/refint/Example007_Magic_While.dll
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/Example007_Magic_While.pdb
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/Example007_Magic_While.genruntimeconfig.cache
+/Users/irinagladkikh/Desktop/Pro/Examples/Example007_Magic_While/obj/Debug/net7.0/ref/Example007_Magic_While.dll
